@@ -1,0 +1,74 @@
+2019-08-01 23:06:34,599 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-01 23:06:35,314 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:06:36,805 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MillionMall/src/main/java
+2019-08-01 23:06:36,805 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MillionMall/src/main/resources
+2019-08-01 23:06:36,819 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MillionMall/src/test/java
+2019-08-01 23:06:36,819 [main] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MillionMall/src/test/resources
+2019-08-01 23:06:37,723 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:06:38,073 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:06:38,353 [main] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MillionMall
+2019-08-01 23:06:38,364 [main] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-08-01 23:06:40,016 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:06:40,528 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:06:40,544 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:06:40,546 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:06:40,559 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:06:41,487 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:06:41,498 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:06:41,499 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:06:41,507 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:06:41,885 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:06:42,990 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:06:42,997 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:06:42,999 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:06:43,007 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:07:31,981 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:07:32,654 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:07:32,664 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:07:32,665 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:07:32,676 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:07:32,676 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MillionMall
+2019-08-01 23:07:32,677 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MillionMall
+2019-08-01 23:07:32,686 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:07:48,755 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall
+2019-08-01 23:07:48,756 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2019-08-01 23:08:01,137 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-01 23:08:01,220 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:08:01,784 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MillionMall/src/main/java
+2019-08-01 23:08:01,784 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MillionMall/src/main/resources
+2019-08-01 23:08:01,785 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MillionMall/src/test/java
+2019-08-01 23:08:01,785 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MillionMall/src/test/resources
+2019-08-01 23:08:02,234 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:08:02,659 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MillionMall
+2019-08-01 23:08:02,680 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-08-01 23:08:03,129 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:08:03,144 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:08:03,145 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:08:03,159 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:09:59,338 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall
+2019-08-01 23:09:59,338 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2019-08-01 23:10:10,701 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-01 23:10:10,771 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:10:11,255 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MillionMall/src/main/java
+2019-08-01 23:10:11,255 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MillionMall/src/main/resources
+2019-08-01 23:10:11,256 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MillionMall/src/test/java
+2019-08-01 23:10:11,262 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MillionMall/src/test/resources
+2019-08-01 23:10:11,561 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MillionMall_Group:MillionMall:1.0.0 @ C:\Users\13468\OneDrive\바탕 화면\MillionMall\MillionMall\workspace\MillionMall\pom.xml.
+2019-08-01 23:10:11,923 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MillionMall
+2019-08-01 23:10:11,928 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-08-01 23:10:12,305 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:12,310 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:10:12,316 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:12,323 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:10:34,027 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:34,040 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:10:34,049 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:34,056 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:10:38,572 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:38,580 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:10:38,588 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:38,595 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:10:54,171 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:54,177 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 23:10:54,184 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 23:10:54,191 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
